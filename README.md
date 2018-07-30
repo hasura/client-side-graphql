@@ -12,8 +12,8 @@ GraphQL is essentially a syntax that describes how to ask for data. A GraphQL AP
 ## Analogy
 
 <div style="display:flex; flex-direction:row">
-<img style="margin:5px;" src="https://raw.githubusercontent.com/hasura/client-side-graphql/master/assets/server.jpg" alt="traditional">
-<img style="margin:5px;" src="https://raw.githubusercontent.com/hasura/client-side-graphql/master/assets/serverless.jpg" alt="serverless">
+<img style="margin:5px;" src="https://raw.githubusercontent.com/hasura/client-side-graphql/master/assets/server.png alt="traditional">
+<img style="margin:5px;" src="https://raw.githubusercontent.com/hasura/client-side-graphql/master/assets/no-server.png" alt="serverless">
 </div>
 
 ## Examples
