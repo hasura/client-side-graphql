@@ -30,8 +30,8 @@ class App extends React.Component {
     client: null,
   }
 
-  async componentWillMount() {
-    const client = await initApollo();
+  componentWillMount() {
+    const client = initApollo();
     this.setState({ client });
   }
 
