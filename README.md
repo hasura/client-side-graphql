@@ -28,7 +28,7 @@ import { InMemoryCache } from 'apollo-cache-inmemory';
 import ApolloClient from 'apollo-client';
 
 const typeDefs = `
-  type Hello {
+  type Query {
     message: String
   }
 `;
